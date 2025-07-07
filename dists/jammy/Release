@@ -1,0 +1,20 @@
+Origin: wollfoo
+Label: wollfoo
+Suite: jammy
+Codename: jammy
+Date: Mon, 07 Jul 2025 16:43:23 UTC
+Architectures: amd64
+Components: main
+Description: Azure kernel full repo
+MD5Sum:
+ eeaf04d35c31e91b7fce15547ecd0660 2346 main/binary-amd64/Packages
+ 99e86e67212e409e6d3396d7f7a351c2 904 main/binary-amd64/Packages.gz
+ 1c97e5c55e1e84f8da7fbea738ccc1b7 118 main/binary-amd64/Release
+SHA1:
+ 30d2308ba6b196f33774eb55760d28817416516b 2346 main/binary-amd64/Packages
+ 4a6062497ec61a2041f01330f882a208dc6f1e40 904 main/binary-amd64/Packages.gz
+ 4adb322dc5f153a4dc1e7f681ec225d146c1cc25 118 main/binary-amd64/Release
+SHA256:
+ 75e2d010130ccf9ae28007d12a9d9c628809c7f4791e5939f3eb06413f2f7f88 2346 main/binary-amd64/Packages
+ ec88eab5152194a69ad405719cb4f11e74ad43d5edd74b38637a08067b3c16f6 904 main/binary-amd64/Packages.gz
+ 22fdd23cb5ea90143b931b50f9694fe20d7f46c2b16f3f524a1bc9ed1fee1ed5 118 main/binary-amd64/Release

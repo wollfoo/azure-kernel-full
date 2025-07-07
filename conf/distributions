@@ -1,0 +1,7 @@
+Origin: wollfoo
+Label: wollfoo
+Suite: jammy
+Codename: jammy
+Architectures: amd64
+Components: main
+Description: Azure kernel full repo
